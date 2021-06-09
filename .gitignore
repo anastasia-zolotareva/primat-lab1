@@ -2,3 +2,4 @@
 .vscodeignore
 ~$*
 *output*.txt
+*.tmp
